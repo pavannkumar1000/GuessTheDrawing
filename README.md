@@ -10,33 +10,33 @@ With live drawing synchronization, interactive gameplay, and a virtual coin-base
 
 ## 📸 Screenshots
 
-### Login & Home
+### 🔐 Login & Home
 
 <p align="center">
-  <img src="screenshots/login_page.jpeg" width="250" alt="Login Screen" />
-  <img src="screenshots/home_page.jpeg" width="250" alt="Home Screen" />
+  <img src="https://raw.githubusercontent.com/pavannkumar1000/GuessTheDrawing/main/screenshots/login_page.jpeg" width="250" alt="Login Screen"/>
+  <img src="https://raw.githubusercontent.com/pavannkumar1000/GuessTheDrawing/main/screenshots/home_page.jpeg" width="250" alt="Home Screen"/>
 </p>
 
-### Room Management
+### 🏠 Room Management
 
 <p align="center">
-  <img src="screenshots/room_creation.jpeg" width="200" alt="Create Room" />
-  <img src="screenshots/room_join.jpeg" width="200" alt="Join Room" />
-  <img src="screenshots/waiting_room.jpeg" width="200" alt="Waiting Room" />
+  <img src="https://raw.githubusercontent.com/pavannkumar1000/GuessTheDrawing/main/screenshots/room_creation.jpeg" width="250" alt="Create Room"/>
+  <img src="https://raw.githubusercontent.com/pavannkumar1000/GuessTheDrawing/main/screenshots/room_join.jpeg" width="250" alt="Join Room"/>
+  <img src="https://raw.githubusercontent.com/pavannkumar1000/GuessTheDrawing/main/screenshots/waiting_room.jpeg" width="250" alt="Waiting Room"/>
 </p>
 
-### Gameplay
+### 🎨 Gameplay
 
 <p align="center">
-  <img src="screenshots/player_drawing.jpeg" width="250" alt="Drawing Screen" />
-  <img src="screenshots/player_guessing.jpeg" width="250" alt="Guessing Screen" />
+  <img src="https://raw.githubusercontent.com/pavannkumar1000/GuessTheDrawing/main/screenshots/player_drawing.jpeg" width="250" alt="Drawing Screen"/>
+  <img src="https://raw.githubusercontent.com/pavannkumar1000/GuessTheDrawing/main/screenshots/player_guessing.jpeg" width="250" alt="Guessing Screen"/>
 </p>
 
-### Results & Instructions
+### 🏆 Results & Instructions
 
 <p align="center">
-  <img src="screenshots/result_page.jpeg" width="250" alt="Results Screen" />
-  <img src="screenshots/instructions_page.jpeg" width="250" alt="Game Instructions" />
+  <img src="https://raw.githubusercontent.com/pavannkumar1000/GuessTheDrawing/main/screenshots/result_page.jpeg" width="250" alt="Results Screen"/>
+  <img src="https://raw.githubusercontent.com/pavannkumar1000/GuessTheDrawing/main/screenshots/instructions_page.jpeg" width="250" alt="Game Instructions"/>
 </p>
 
 ---
